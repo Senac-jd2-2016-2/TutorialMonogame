@@ -1,2 +1,4 @@
 C:\cygwin64\teste\TutorialMonogame\Camera\obj\x86\Debug\Camera.exe
 C:\cygwin64\teste\TutorialMonogame\Camera\obj\x86\Debug\Camera.pdb
+C:\cygwin64\teste\TutorialMonogame\TutorialMonogame\Camera\obj\x86\Debug\Camera.exe
+C:\cygwin64\teste\TutorialMonogame\TutorialMonogame\Camera\obj\x86\Debug\Camera.pdb
