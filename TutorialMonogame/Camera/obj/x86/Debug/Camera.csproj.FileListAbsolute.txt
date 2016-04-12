@@ -1,0 +1,9 @@
+c:\users\francisco\documents\visual studio 2015\Projects\Camera\Camera\bin\WindowsGL\Debug\Content\plataforma.jpg
+c:\users\francisco\documents\visual studio 2015\Projects\Camera\Camera\bin\WindowsGL\Debug\Camera.exe
+c:\users\francisco\documents\visual studio 2015\Projects\Camera\Camera\bin\WindowsGL\Debug\Camera.pdb
+c:\users\francisco\documents\visual studio 2015\Projects\Camera\Camera\bin\WindowsGL\Debug\MonoGame.Framework.dll
+c:\users\francisco\documents\visual studio 2015\Projects\Camera\Camera\bin\WindowsGL\Debug\OpenTK.dll
+c:\users\francisco\documents\visual studio 2015\Projects\Camera\Camera\obj\x86\Debug\Camera.csprojResolveAssemblyReference.cache
+c:\users\francisco\documents\visual studio 2015\Projects\Camera\Camera\obj\x86\Debug\Camera.exe
+c:\users\francisco\documents\visual studio 2015\Projects\Camera\Camera\obj\x86\Debug\Camera.pdb
+c:\users\francisco\documents\visual studio 2015\Projects\Camera\Camera\bin\WindowsGL\Debug\Content\nave.png
