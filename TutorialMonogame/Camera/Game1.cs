@@ -51,6 +51,11 @@ namespace Tutorial
             Jogador jogador = new Jogador();
             cenario.addGameObject(jogador);
 
+            Robot robot = new Robot();
+            robot.position = new Vector2(500, 500);
+            robot.image = "robot.png";
+            cenario.addGameObject(robot);
+
         }
 
         /// <summary>

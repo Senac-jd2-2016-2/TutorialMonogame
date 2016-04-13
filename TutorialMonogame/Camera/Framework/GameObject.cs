@@ -1,4 +1,5 @@
 ﻿using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Content;
 using Microsoft.Xna.Framework.Graphics;
 using System;
 using System.Collections.Generic;
@@ -9,6 +10,8 @@ namespace Tutorial.Framework
 {
 
     public class GameObject {
+
+        public ContentManager content;
 
         public Vector2 position;
 
@@ -22,7 +25,21 @@ namespace Tutorial.Framework
 
         private Camera camera;
 
+        public Rectangle rectangle;
+
+        public bool colidiu;
+
         public virtual void start()
+        {
+
+        }
+
+        public virtual void colisaoDetectada(GameObject obj)
+        {
+
+        }
+
+        public virtual void colisaoNaoDetectada()
         {
 
         }

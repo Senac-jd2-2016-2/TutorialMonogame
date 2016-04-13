@@ -9,3 +9,5 @@ C:\cygwin64\teste\TutorialMonogame\TutorialMonogame\Camera\bin\WindowsGL\Debug\C
 C:\cygwin64\teste\TutorialMonogame\TutorialMonogame\Camera\bin\WindowsGL\Debug\MonoGame.Framework.dll
 C:\cygwin64\teste\TutorialMonogame\TutorialMonogame\Camera\bin\WindowsGL\Debug\OpenTK.dll
 C:\cygwin64\teste\TutorialMonogame\TutorialMonogame\Camera\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+C:\cygwin64\teste\TutorialMonogame\TutorialMonogame\Camera\bin\WindowsGL\Debug\Content\robot.png
+C:\cygwin64\teste\TutorialMonogame\TutorialMonogame\Camera\bin\WindowsGL\Debug\Content\robot_colidido.png
