@@ -7,17 +7,20 @@ using System.Text;
 
 namespace Tutorial.Framework
 {
-    public class Camera
+    public class Camera : GameObject
     {
         public double zoom = 1;
 
-        public Vector2 foco = new Vector2(0, 0);
-
         public bool disableUpdate;
 
-        public virtual void update(GameTime gameTime)
+        public Vector2 getFoco()
         {
-            float deltaMov = 40;
+            return new Vector2(position.X + center.X, position.Y + center.Y);
+        }
+
+        public override void update(GameTime gameTime)
+        {
+            float deltaMov = 100;
             float deltaZoom = 1; 
             float deltaTime = (float)gameTime.ElapsedGameTime.TotalSeconds;
             if (!disableUpdate)
@@ -27,19 +30,19 @@ namespace Tutorial.Framework
                 {
                     if (k.Equals(Keys.I))
                     {
-                        foco.Y -= deltaMov * deltaTime;
+                        position.Y -= deltaMov * deltaTime;
                     }
                     if (k.Equals(Keys.O))
                     {
-                        foco.Y += deltaMov * deltaTime;
+                        position.Y += deltaMov * deltaTime;
                     }
                     if (k.Equals(Keys.K))
                     {
-                        foco.X += deltaMov * deltaTime;
+                        position.X += deltaMov * deltaTime;
                     }
                     if (k.Equals(Keys.L))
                     {
-                        foco.X -= deltaMov * deltaTime;
+                        position.X -= deltaMov * deltaTime;
                     }
                     if (k.Equals(Keys.U))
                     {

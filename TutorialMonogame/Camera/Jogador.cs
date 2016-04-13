@@ -13,6 +13,8 @@ namespace Tutorial
         public override void start()
         {
             image = "nave.png";
+            position = new Vector2(200, 200);
+            center = new Vector2(136, 62);
         }
 
         public override void update(GameTime gameTime)
@@ -22,11 +24,11 @@ namespace Tutorial
             {
                 if (k.Equals(Keys.Up))
                 {
-                    position.Y -= 2;
+                    position.Y += 2;
                 }
                 if (k.Equals(Keys.Down))
                 {
-                    position.Y += 2;
+                    position.Y -= 2;
                 }
                 if (k.Equals(Keys.Right))
                 {

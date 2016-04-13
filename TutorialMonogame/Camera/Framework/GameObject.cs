@@ -12,6 +12,8 @@ namespace Tutorial.Framework
 
         public Vector2 position;
 
+        public Vector2 center = new Vector2(0, 0);
+
         public Texture2D texture;
 
         public Vector2 transform;

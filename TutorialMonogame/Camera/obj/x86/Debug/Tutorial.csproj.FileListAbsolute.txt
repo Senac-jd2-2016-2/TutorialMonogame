@@ -2,3 +2,10 @@ C:\cygwin64\teste\TutorialMonogame\Camera\obj\x86\Debug\Camera.exe
 C:\cygwin64\teste\TutorialMonogame\Camera\obj\x86\Debug\Camera.pdb
 C:\cygwin64\teste\TutorialMonogame\TutorialMonogame\Camera\obj\x86\Debug\Camera.exe
 C:\cygwin64\teste\TutorialMonogame\TutorialMonogame\Camera\obj\x86\Debug\Camera.pdb
+C:\cygwin64\teste\TutorialMonogame\TutorialMonogame\Camera\bin\WindowsGL\Debug\Content\nave.png
+C:\cygwin64\teste\TutorialMonogame\TutorialMonogame\Camera\bin\WindowsGL\Debug\Content\plataforma.jpg
+C:\cygwin64\teste\TutorialMonogame\TutorialMonogame\Camera\bin\WindowsGL\Debug\Camera.exe
+C:\cygwin64\teste\TutorialMonogame\TutorialMonogame\Camera\bin\WindowsGL\Debug\Camera.pdb
+C:\cygwin64\teste\TutorialMonogame\TutorialMonogame\Camera\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\cygwin64\teste\TutorialMonogame\TutorialMonogame\Camera\bin\WindowsGL\Debug\OpenTK.dll
+C:\cygwin64\teste\TutorialMonogame\TutorialMonogame\Camera\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
