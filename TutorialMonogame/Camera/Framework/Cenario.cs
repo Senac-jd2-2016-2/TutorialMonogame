@@ -32,7 +32,7 @@ namespace Tutorial.Framework
             obj.texture = content.Load<Texture2D>(obj.image);
         }
 
-        private bool verificarColisao(GameObject a, GameObject b)
+        private Colisao verificarColisao(GameObject a, GameObject b)
         {
             Color[] bitsA = new Color[a.texture.Width * a.texture.Height];
             a.texture.GetData(bitsA);
@@ -54,13 +54,45 @@ namespace Tutorial.Framework
 
                     if (ca.A != 0 && cb.A != 0) 
                     {
-                        return true;
+                        Colisao colisao = new Colisao();
+                        colisao.colidiu = true;
+                        colisao.local = new Vector2(x, y);
+                        return colisao;
                     }
                 }
             }
 
-            return false;
+            return new Colisao();
         }
+
+        private Vector2 getCentroGameObject(GameObject obj)
+        {
+            int x = obj.rectangle.Width / 2 + obj.rectangle.X;
+            int y = obj.rectangle.Height / 2 + obj.rectangle.Y;
+            return new Vector2(x, y);
+        }
+
+        private void preencherSentidoColisao(Colisao colisao, GameObject obj)
+        {
+            Vector2 centro = getCentroGameObject(obj);
+            if(colisao.local.X > centro.X)
+            {
+                colisao.colisaoDireita = true;
+            }
+            if (colisao.local.X < centro.X)
+            {
+                colisao.colisaoEsquerda = true;
+            }
+            if (colisao.local.Y > centro.Y)
+            {
+                colisao.colisaoBaixo = true;
+            }
+            if (colisao.local.Y < centro.Y)
+            {
+                colisao.colisaoCima = true;
+            }
+        }
+
         private void detectarColisao()
         {
             foreach(GameObject o in objetos)
@@ -74,12 +106,21 @@ namespace Tutorial.Framework
                 for(int j = i + 1; j < objetos.Count; j++)
                 {
                     GameObject obj2 = objetos[j];
-                    if(verificarColisao(obj1, obj2))
+                    Colisao colisao = verificarColisao(obj1, obj2);
+                    if (colisao.colidiu)
                     {
                         obj1.colidiu = true;
                         obj2.colidiu = true;
-                        obj1.colisaoDetectada(obj2);
-                        obj2.colisaoDetectada(obj1);
+                        Colisao colisao2 = new Colisao();
+                        colisao2.colidiu = colisao.colidiu;
+                        colisao2.local = colisao.local;
+                        preencherSentidoColisao(colisao, obj1);
+                        preencherSentidoColisao(colisao2, obj2);
+
+                        obj1.colisaoDetectada(obj2, colisao);
+                        obj2.colisaoDetectada(obj1, colisao2);
+                        
+
                     }
                 }
                 if (!obj1.colidiu)
@@ -134,6 +175,7 @@ namespace Tutorial.Framework
             {
                 obj.update(gameTime);
             }
+            detectarColisao();
         }
 
         public void draw(SpriteBatch spriteBatch) {
@@ -142,7 +184,6 @@ namespace Tutorial.Framework
             {
                 spriteBatch.Draw(obj.texture, getRectangle(obj), Color.White);
             }
-            detectarColisao();
         }
     }
 }

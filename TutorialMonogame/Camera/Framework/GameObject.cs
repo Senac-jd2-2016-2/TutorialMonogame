@@ -29,12 +29,15 @@ namespace Tutorial.Framework
 
         public bool colidiu;
 
+        public Colisao colisao;
+
+
         public virtual void start()
         {
 
         }
 
-        public virtual void colisaoDetectada(GameObject obj)
+        public virtual void colisaoDetectada(GameObject obj, Colisao colisao)
         {
 
         }

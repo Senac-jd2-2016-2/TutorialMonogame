@@ -48,6 +48,7 @@ namespace Tutorial
             spriteBatch = new SpriteBatch(GraphicsDevice);
 
             cenario = new Cenario(Content, "plataforma.jpg");
+
             Jogador jogador = new Jogador();
             cenario.addGameObject(jogador);
 

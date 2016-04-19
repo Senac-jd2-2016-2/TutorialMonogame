@@ -9,7 +9,7 @@ namespace Tutorial
 {
     class Robot : GameObject
     {
-        public override void colisaoDetectada(GameObject obj)
+        public override void colisaoDetectada(GameObject obj, Colisao colisao)
         {
             texture = content.Load<Texture2D>("robot_colidido.png");
         }

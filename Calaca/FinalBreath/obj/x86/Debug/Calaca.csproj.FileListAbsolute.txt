@@ -1,0 +1,94 @@
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\Content\Sprite\Player\Player.xnb
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\Content\Sprite\Player\playerSheet.xnb
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\Content\Tile\Tile1.xnb
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\Content\Tile\Tile2.xnb
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\FinalBreath.exe
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\FinalBreath.pdb
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.dll
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.xml
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\obj\x86\Debug\FinalBreath.exe
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\obj\x86\Debug\FinalBreath.pdb
+C:\Users\Aluno\Desktop\Calaca\FinalBreath\obj\x86\Debug\FinalBreath.exe
+C:\Users\Aluno\Desktop\Calaca\FinalBreath\obj\x86\Debug\FinalBreath.pdb
+C:\Users\Aluno\Desktop\Calaca\FinalBreath\bin\Windows\Debug\Content\Sprite\Player\playerSheet.xnb
+C:\Users\Aluno\Desktop\Calaca\FinalBreath\bin\Windows\Debug\Content\Tile\Tile1.png
+C:\Users\Aluno\Desktop\Calaca\FinalBreath\bin\Windows\Debug\Content\Tile\Tile2.png
+C:\Users\Aluno\Desktop\Calaca\FinalBreath\bin\Windows\Debug\Content\Tile\Tile3.png
+C:\Users\Aluno\Desktop\Calaca\FinalBreath\bin\Windows\Debug\Content\Tile\Tile4.png
+C:\Users\Aluno\Desktop\Calaca\FinalBreath\bin\Windows\Debug\Content\Tile\Tile5.png
+C:\Users\Aluno\Desktop\Calaca\FinalBreath\bin\Windows\Debug\Content\Tile\Tile6.png
+C:\Users\Aluno\Desktop\Calaca\FinalBreath\bin\Windows\Debug\FinalBreath.exe
+C:\Users\Aluno\Desktop\Calaca\FinalBreath\bin\Windows\Debug\FinalBreath.pdb
+C:\Users\Aluno\Desktop\Calaca\FinalBreath\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Aluno\Desktop\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Aluno\Desktop\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.dll
+C:\Users\Aluno\Desktop\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Aluno\Desktop\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Aluno\Desktop\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Aluno\Desktop\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Aluno\Desktop\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Aluno\Desktop\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Aluno\Desktop\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Aluno\Desktop\Calaca\FinalBreath\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Aluno\Desktop\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Aluno\Desktop\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.xml
+C:\Users\Aluno\Desktop\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Aluno\Desktop\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Aluno\Desktop\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Aluno\Desktop\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Aluno\Desktop\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Aluno\Desktop\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Aluno\Desktop\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Aluno\Desktop\Calaca\FinalBreath\obj\x86\Debug\Calaca.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Calaca\FinalBreath\bin\Windows\Debug\Content\Sprite\Player\Player.png
+E:\Calaca\FinalBreath\obj\x86\Debug\FinalBreath.exe
+E:\Calaca\FinalBreath\obj\x86\Debug\FinalBreath.pdb
+E:\Calaca\FinalBreath\bin\Windows\Debug\Content\Sprite\Player\playerSheet.xnb
+E:\Calaca\FinalBreath\bin\Windows\Debug\Content\Sprite\Player\Player.png
+E:\Calaca\FinalBreath\bin\Windows\Debug\Content\Tile\Tile1.png
+E:\Calaca\FinalBreath\bin\Windows\Debug\Content\Tile\Tile2.png
+E:\Calaca\FinalBreath\bin\Windows\Debug\Content\Tile\Tile3.png
+E:\Calaca\FinalBreath\bin\Windows\Debug\Content\Tile\Tile4.png
+E:\Calaca\FinalBreath\bin\Windows\Debug\Content\Tile\Tile5.png
+E:\Calaca\FinalBreath\bin\Windows\Debug\Content\Tile\Tile6.png
+E:\Calaca\FinalBreath\bin\Windows\Debug\FinalBreath.exe
+E:\Calaca\FinalBreath\bin\Windows\Debug\FinalBreath.pdb
+E:\Calaca\FinalBreath\bin\Windows\Debug\MonoGame.Framework.dll
+E:\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.dll
+E:\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.XInput.dll
+E:\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\Calaca\FinalBreath\bin\Windows\Debug\MonoGame.Framework.xml
+E:\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.xml
+E:\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.XInput.xml
+E:\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\Calaca\FinalBreath\obj\x86\Debug\Calaca.csprojResolveAssemblyReference.cache

@@ -40,6 +40,7 @@
   <ItemGroup>
     <Compile Include="Framework\Camera.cs" />
     <Compile Include="Framework\Cenario.cs" />
+    <Compile Include="Framework\Colisao.cs" />
     <Compile Include="Game1.cs" />
     <Compile Include="Framework\GameObject.cs" />
     <Compile Include="Jogador.cs" />

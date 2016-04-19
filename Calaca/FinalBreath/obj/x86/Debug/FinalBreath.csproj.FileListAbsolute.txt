@@ -1,0 +1,87 @@
+c:\users\matheus\documents\visual studio 2013\Projects\FinalBreath\FinalBreath\obj\x86\Debug\FinalBreath.csprojResolveAssemblyReference.cache
+c:\users\matheus\documents\visual studio 2013\Projects\FinalBreath\FinalBreath\bin\Windows\Debug\FinalBreath.exe
+c:\users\matheus\documents\visual studio 2013\Projects\FinalBreath\FinalBreath\bin\Windows\Debug\FinalBreath.pdb
+c:\users\matheus\documents\visual studio 2013\Projects\FinalBreath\FinalBreath\bin\Windows\Debug\MonoGame.Framework.dll
+c:\users\matheus\documents\visual studio 2013\Projects\FinalBreath\FinalBreath\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+c:\users\matheus\documents\visual studio 2013\Projects\FinalBreath\FinalBreath\bin\Windows\Debug\SharpDX.dll
+c:\users\matheus\documents\visual studio 2013\Projects\FinalBreath\FinalBreath\bin\Windows\Debug\SharpDX.XAudio2.dll
+c:\users\matheus\documents\visual studio 2013\Projects\FinalBreath\FinalBreath\bin\Windows\Debug\SharpDX.Direct3D11.dll
+c:\users\matheus\documents\visual studio 2013\Projects\FinalBreath\FinalBreath\bin\Windows\Debug\SharpDX.DXGI.dll
+c:\users\matheus\documents\visual studio 2013\Projects\FinalBreath\FinalBreath\bin\Windows\Debug\SharpDX.Direct2D1.dll
+c:\users\matheus\documents\visual studio 2013\Projects\FinalBreath\FinalBreath\bin\Windows\Debug\SharpDX.XInput.dll
+c:\users\matheus\documents\visual studio 2013\Projects\FinalBreath\FinalBreath\bin\Windows\Debug\SharpDX.RawInput.dll
+c:\users\matheus\documents\visual studio 2013\Projects\FinalBreath\FinalBreath\bin\Windows\Debug\SharpDX.Direct3D9.dll
+c:\users\matheus\documents\visual studio 2013\Projects\FinalBreath\FinalBreath\bin\Windows\Debug\MonoGame.Framework.xml
+c:\users\matheus\documents\visual studio 2013\Projects\FinalBreath\FinalBreath\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+c:\users\matheus\documents\visual studio 2013\Projects\FinalBreath\FinalBreath\bin\Windows\Debug\SharpDX.xml
+c:\users\matheus\documents\visual studio 2013\Projects\FinalBreath\FinalBreath\bin\Windows\Debug\SharpDX.XAudio2.xml
+c:\users\matheus\documents\visual studio 2013\Projects\FinalBreath\FinalBreath\bin\Windows\Debug\SharpDX.Direct3D11.xml
+c:\users\matheus\documents\visual studio 2013\Projects\FinalBreath\FinalBreath\bin\Windows\Debug\SharpDX.DXGI.xml
+c:\users\matheus\documents\visual studio 2013\Projects\FinalBreath\FinalBreath\bin\Windows\Debug\SharpDX.Direct2D1.xml
+c:\users\matheus\documents\visual studio 2013\Projects\FinalBreath\FinalBreath\bin\Windows\Debug\SharpDX.XInput.xml
+c:\users\matheus\documents\visual studio 2013\Projects\FinalBreath\FinalBreath\bin\Windows\Debug\SharpDX.RawInput.xml
+c:\users\matheus\documents\visual studio 2013\Projects\FinalBreath\FinalBreath\bin\Windows\Debug\SharpDX.Direct3D9.xml
+c:\users\matheus\documents\visual studio 2013\Projects\FinalBreath\FinalBreath\obj\x86\Debug\FinalBreath.exe
+c:\users\matheus\documents\visual studio 2013\Projects\FinalBreath\FinalBreath\obj\x86\Debug\FinalBreath.pdb
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\FinalBreath\FinalBreath\bin\Windows\Debug\Content\Sprite\Player\playerSheet.xnb
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\FinalBreath\FinalBreath\bin\Windows\Debug\Content\Tile\Tile1.xnb
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\FinalBreath\FinalBreath\bin\Windows\Debug\Content\Tile\Tile2.xnb
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\FinalBreath\FinalBreath\bin\Windows\Debug\Content\Sprite\Player\Player.xnb
+C:\Users\Aluno\Desktop\Nova pasta\FinalBreath\FinalBreath\obj\x86\Debug\FinalBreath.exe
+C:\Users\Aluno\Desktop\Nova pasta\FinalBreath\FinalBreath\obj\x86\Debug\FinalBreath.pdb
+C:\Users\Aluno\Desktop\Nova pasta\FinalBreath\FinalBreath\bin\Windows\Debug\Content\Sprite\Player\playerSheet.xnb
+C:\Users\Aluno\Desktop\Nova pasta\FinalBreath\FinalBreath\bin\Windows\Debug\Content\Sprite\Player\Player.xnb
+C:\Users\Aluno\Desktop\Nova pasta\FinalBreath\FinalBreath\bin\Windows\Debug\Content\Tile\Tile1.xnb
+C:\Users\Aluno\Desktop\Nova pasta\FinalBreath\FinalBreath\bin\Windows\Debug\Content\Tile\Tile2.xnb
+C:\Users\Aluno\Desktop\Nova pasta\FinalBreath\FinalBreath\bin\Windows\Debug\FinalBreath.exe
+C:\Users\Aluno\Desktop\Nova pasta\FinalBreath\FinalBreath\bin\Windows\Debug\FinalBreath.pdb
+C:\Users\Aluno\Desktop\Nova pasta\FinalBreath\FinalBreath\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Aluno\Desktop\Nova pasta\FinalBreath\FinalBreath\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Aluno\Desktop\Nova pasta\FinalBreath\FinalBreath\bin\Windows\Debug\SharpDX.dll
+C:\Users\Aluno\Desktop\Nova pasta\FinalBreath\FinalBreath\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Aluno\Desktop\Nova pasta\FinalBreath\FinalBreath\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Aluno\Desktop\Nova pasta\FinalBreath\FinalBreath\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Aluno\Desktop\Nova pasta\FinalBreath\FinalBreath\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Aluno\Desktop\Nova pasta\FinalBreath\FinalBreath\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Aluno\Desktop\Nova pasta\FinalBreath\FinalBreath\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Aluno\Desktop\Nova pasta\FinalBreath\FinalBreath\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Aluno\Desktop\Nova pasta\FinalBreath\FinalBreath\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Aluno\Desktop\Nova pasta\FinalBreath\FinalBreath\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Aluno\Desktop\Nova pasta\FinalBreath\FinalBreath\bin\Windows\Debug\SharpDX.xml
+C:\Users\Aluno\Desktop\Nova pasta\FinalBreath\FinalBreath\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Aluno\Desktop\Nova pasta\FinalBreath\FinalBreath\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Aluno\Desktop\Nova pasta\FinalBreath\FinalBreath\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Aluno\Desktop\Nova pasta\FinalBreath\FinalBreath\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Aluno\Desktop\Nova pasta\FinalBreath\FinalBreath\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Aluno\Desktop\Nova pasta\FinalBreath\FinalBreath\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Aluno\Desktop\Nova pasta\FinalBreath\FinalBreath\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Aluno\Desktop\Nova pasta\FinalBreath\FinalBreath\obj\x86\Debug\FinalBreath.csprojResolveAssemblyReference.cache
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\obj\x86\Debug\FinalBreath.exe
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\obj\x86\Debug\FinalBreath.pdb
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\Content\Sprite\Player\playerSheet.xnb
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\Content\Sprite\Player\Player.xnb
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\Content\Tile\Tile1.xnb
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\Content\Tile\Tile2.xnb
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\FinalBreath.exe
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\FinalBreath.pdb
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.dll
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.xml
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Matheus\Documents\Visual Studio 2013\Projects\Calaca\FinalBreath\obj\x86\Debug\FinalBreath.csprojResolveAssemblyReference.cache
